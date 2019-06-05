@@ -1,0 +1,37 @@
+#home{
+    position: fixed;
+
+}
+
+
+ 
+ /* primary navigation
+ --------------------------------------------------------------------- */
+ #nav-wrap ul, #nav-wrap a {
+      margin: 0;
+ }
+ 
+ /* nav-wrap */
+ #nav-wrap {
+    font: 14px;
+    width: 100%;
+    z-index: 10;
+    position: fixed;
+ }
+ 
+ 
+ ul#nav {
+ 
+    text-align: right;
+    background-color: #11ABB0;
+ }
+ ul#nav li {
+    display: inline-block;
+ }
+ 
+
+ ul#nav li a {
+    padding-left: 335px;
+    color: #000;
+ }
+ 

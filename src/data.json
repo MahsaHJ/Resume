@@ -1,0 +1,78 @@
+{
+    "title": "Hello I'm Mahsa!",
+    "subtitle": "Front-End Dev | IT Engineer",
+    "links": {
+        "github": "https://github.com/MahsaHJ",
+        "stackoverflow": "https://stackoverflow.com/users/7673513/mas-hj",
+        "linkedin": "https://linkedin.com/in/mahsa-hosseini-410845135"
+    },
+    "sections": [
+        {
+            "title": "About",
+            "items": [
+                {
+                    "type": "p",
+                    "content": "I enjoy learning. This is my first react project."
+                },
+                {
+                    "type": "p",
+                    "content": "I beleive in self-study.I'm trying my best to become a well-experienced engineer."
+                },
+                {
+                    "type": "p",
+                    "content": "I like to learn all programming languages."
+                }
+            ]
+        },
+        {
+            "title": "Skills",
+            "items": [
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/react.png",
+                        "title": "React"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/javascript.png",
+                        "title": "Javascript"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/html.png",
+                        "title": "HTML"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/css.png",
+                        "title": "CSS"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/python.png",
+                        "title": "Python"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/ubuntu.png",
+                        "title": "Ubuntu"
+                    }
+                }
+            ]
+        }
+    ],
+    "icons": {
+        "down": "images/down.png"
+    }
+}
